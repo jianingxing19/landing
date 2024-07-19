@@ -1,0 +1,40 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.3) 50%), url('../../images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 5px;
+}
+
+.banner .btn-blue {
+  margin-top: 20px;
+  background-color: #6c63ff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 18px;
+  display: inline-block;
+}
+
+.banner .btn-blue:hover {
+  background-color: #5a52d6;
+}

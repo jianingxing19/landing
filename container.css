@@ -1,0 +1,13 @@
+.container {
+    padding: 0 20%;
+    background-color: #dddddd;
+}
+
+.container h1 {
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+
+
